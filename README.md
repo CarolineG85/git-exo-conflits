@@ -1,3 +1,2 @@
-# git-exo-conflits
-
+REMOTE
 Trying this exercise to pratice merge and conflits.
